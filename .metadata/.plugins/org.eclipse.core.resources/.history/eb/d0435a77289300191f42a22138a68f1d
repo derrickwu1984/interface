@@ -1,0 +1,22 @@
+package com.inter.dao.impl;
+
+import org.apache.ibatis.session.SqlSession;
+import org.mybatis.spring.SqlSessionTemplate;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+
+
+
+public class BaseDaoImpl {
+	@Autowired
+	@Qualifier("sessionTemplate")
+	private SqlSessionTemplate sessionTemplate;
+	
+	public SqlSession getSqlSession() {
+		return sessionTemplate;
+	}
+	protected String getStatement(String sqlid) {
+		
+	}
+
+}

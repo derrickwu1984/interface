@@ -1,0 +1,24 @@
+package com.inter.test;
+
+import org.junit.Before;
+import org.junit.Test;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.inter.dao.InfoDao;
+
+public class JdbcTest {
+	private InfoDao infoDaoImpl;
+
+	@Before
+	public void getBefore() {
+		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+	}
+
+	@Test
+	public void test() {
+		infoDaoImpl.getAllInfo();
+		
+	}
+
+}

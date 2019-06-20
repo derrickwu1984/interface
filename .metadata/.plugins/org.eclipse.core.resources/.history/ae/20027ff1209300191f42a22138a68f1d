@@ -1,0 +1,16 @@
+package com.inter.dao.impl;
+
+import org.apache.ibatis.session.SqlSession;
+import org.mybatis.spring.SqlSessionTemplate;
+
+
+
+public class BaseDaoImpl {
+	
+	private SqlSessionTemplate sessionTemplate;
+	
+	public SqlSession getSqlSession() {
+		
+	}
+
+}

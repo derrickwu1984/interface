@@ -1,0 +1,91 @@
+package com.inter.bean;
+
+public class InterfaceField {
+	private String id;
+	private String trs_name;
+	private String trs_code;
+	private String func_desc;
+	private String flag;
+	private String eng_name;
+	private String chinese_name;
+	private String data_type;
+	private String required;
+	private String remark;
+	public InterfaceField(String data_type, String required, String trs_code, String flag, String func_desc, String id,
+			String eng_name, String trs_name, String chinese_name, String remark) {
+		super();
+		this.data_type = data_type;
+		this.required = required;
+		this.trs_code = trs_code;
+		this.flag = flag;
+		this.func_desc = func_desc;
+		this.id = id;
+		this.eng_name = eng_name;
+		this.trs_name = trs_name;
+		this.chinese_name = chinese_name;
+		this.remark = remark;
+	}
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getTrs_name() {
+		return trs_name;
+	}
+	public void setTrs_name(String trs_name) {
+		this.trs_name = trs_name;
+	}
+	public String getTrs_code() {
+		return trs_code;
+	}
+	public void setTrs_code(String trs_code) {
+		this.trs_code = trs_code;
+	}
+	public String getFunc_desc() {
+		return func_desc;
+	}
+	public void setFunc_desc(String func_desc) {
+		this.func_desc = func_desc;
+	}
+	public String getFlag() {
+		return flag;
+	}
+	public void setFlag(String flag) {
+		this.flag = flag;
+	}
+	public String getEng_name() {
+		return eng_name;
+	}
+	public void setEng_name(String eng_name) {
+		this.eng_name = eng_name;
+	}
+	public String getChinese_name() {
+		return chinese_name;
+	}
+	public void setChinese_name(String chinese_name) {
+		this.chinese_name = chinese_name;
+	}
+	public String getData_type() {
+		return data_type;
+	}
+	public void setData_type(String data_type) {
+		this.data_type = data_type;
+	}
+	public String getRequired() {
+		return required;
+	}
+	public void setRequired(String required) {
+		this.required = required;
+	}
+	public String getRemark() {
+		return remark;
+	}
+	public void setRemark(String remark) {
+		this.remark = remark;
+	}
+
+	
+
+}

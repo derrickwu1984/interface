@@ -1,0 +1,12 @@
+package com.inter.mapper;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.inter.entity.InterfaceField;
+
+@Service
+public interface InfoMapper {
+	public InterfaceField getAllInfo();
+}

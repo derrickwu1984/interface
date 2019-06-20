@@ -1,0 +1,5 @@
+package com.inter.dao.impl;
+
+public class BaseDaoImpl {
+
+}

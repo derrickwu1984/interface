@@ -1,0 +1,11 @@
+package com.inter.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.inter.beans.InterfaceField;
+@Service
+public interface InfoService {
+	public List<InterfaceField> getInfoList(String trs_code);
+}

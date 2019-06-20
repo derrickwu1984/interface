@@ -1,0 +1,16 @@
+package com.inter.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class JdbcTest {
+	private InfoDaoImpl infoDaoImpl;
+
+	@Test
+	public void test() {
+		
+		
+	}
+
+}

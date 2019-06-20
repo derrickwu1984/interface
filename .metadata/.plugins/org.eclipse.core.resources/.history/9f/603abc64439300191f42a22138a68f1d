@@ -1,0 +1,25 @@
+package com.inter.test;
+
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.inter.service.impl.InfoServiceImpl;
+@RunWith
+public class JdbcTest {
+	private InfoServiceImpl info;
+
+	@Before
+	public void getBefore() {
+		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+		info = applicationContext.getBean(InfoServiceImpl.class);
+	}
+
+	@Test
+	public void test() {
+		System.out.println(info.getInfoList());
+		
+	}
+
+}
