@@ -21,7 +21,7 @@ public class JdbcTest {
 	@Test
 	public void test() {
 		for(InterfaceField field:info.getInfoList()) {
-			System.out.println(field.getFunc_desc());
+			System.out.println(field.getChinese_name());
 		}
 		System.out.println("=========end========");
 		

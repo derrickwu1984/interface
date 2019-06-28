@@ -11,7 +11,7 @@ import com.inter.service.impl.InfoServiceImpl;
 public class JdbcTest {
 	
 	private InfoServiceImpl info;
-	private InterfaceField interField;
+	private InterfaceField field;
 	@Before
 	public void getBefore() {
 		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
@@ -20,9 +20,8 @@ public class JdbcTest {
 
 	@Test
 	public void test() {
-		for(InterfaceField field:info.getInfoList()) {
-			System.out.println(field.getFunc_desc());
-		}
+		List list = (List) info.getInfoList();
+		for()
 		System.out.println("=========end========");
 		
 		
