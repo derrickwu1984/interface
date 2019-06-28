@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper>
+	<select id="getAllInfo" resultMap="infoMapper">
+		SELECT * FROM interface_details
+	</select>
+	<resultMap id="infoMapper" type="com.inter.entity.InterfaceField">
+		<constructor></constructor>
+		<id column="id" property="id" jdbcType="VARCHAR" />
+		<result column="name" property="trs_name" jdbcType="VARCHAR" />
+		<result column="trs_code" property="trs_code" jdbcType="VARCHAR" />
+		<result column="func_desc" property="func_desc" jdbcType="VARCHAR" />
+		<result column="flag" property="flag" jdbcType="VARCHAR" />
+		<result column="eng_name" property="eng_name" jdbcType="VARCHAR" />
+		<result column="chinese_name" property="chinese_name" jdbcType="VARCHAR" />
+		<result column="data_type" property="data_type" jdbcType="VARCHAR" />
+		<result column="required" property="required" jdbcType="VARCHAR" />
+		<result column="remark" property="remark" jdbcType="VARCHAR" />	
+	 </resultMap>     	
+</mapper>

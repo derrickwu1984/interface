@@ -2,13 +2,12 @@ package com.inter.test;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
 import com.inter.service.impl.InfoServiceImpl;
 public class JdbcTest {
+	
 	private InfoServiceImpl info;
-
 	@Before
 	public void getBefore() {
 		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
@@ -17,7 +16,9 @@ public class JdbcTest {
 
 	@Test
 	public void test() {
-		System.out.println(info.getInfoList());
+		info.getInfoList();
+		System.out.println("=========end========");
+		
 		
 	}
 

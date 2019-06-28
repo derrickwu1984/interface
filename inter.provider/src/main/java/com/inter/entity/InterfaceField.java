@@ -1,5 +1,7 @@
 package com.inter.entity;
 
+import org.springframework.stereotype.Service;
+
 public class InterfaceField {
 	private String id;
 	private String trs_name;

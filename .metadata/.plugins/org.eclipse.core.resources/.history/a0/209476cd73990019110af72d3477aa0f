@@ -1,0 +1,22 @@
+package com.inter.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.inter.dao.InfoDao;
+import com.inter.entity.InterfaceField;
+import com.inter.mapper.InfoMapper;
+import com.inter.service.InfoService;
+import javax.annotation.Resource;
+@Service
+public class InfoServiceImpl implements InfoService {
+	@Autowired
+	private InfoMapper infoMapper;
+	@Resource
+	private InfoDao infodao;
+	
+	public InterfaceField getInfoList() {
+		return (InterfaceField) this.infodao.getAllInfo();
+	}
+
+}
