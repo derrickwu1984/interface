@@ -1,0 +1,19 @@
+package com.inter.consumer.service.impl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.inter.consumer.service.AllInfoService;
+@Service
+public class AllInfoServiceImpl implements AllInfoService {
+	@Autowired
+	InfoService infoService
+	public List getAllInfo() {
+		// TODO Auto-generated method stub
+		List list = 
+		return null;
+	}
+
+}

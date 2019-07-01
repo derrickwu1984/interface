@@ -1,0 +1,14 @@
+package com.inter.consumer.service.impl;
+
+import java.util.List;
+
+import com.inter.consumer.service.AllInfoService;
+
+public class AllInfoServiceImpl implements AllInfoService {
+
+	public List getAllInfo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
