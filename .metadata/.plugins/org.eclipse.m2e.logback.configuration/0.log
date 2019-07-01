@@ -1294,3 +1294,240 @@
 2019-06-28 16:48:48,969 [Worker-607] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-28 16:48:48,970 [Worker-607] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2019-06-28 16:48:48,984 [Worker-607] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:20:44,257 [Worker-614] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:20:44,271 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:20:44,273 [Worker-614] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:20:44,287 [Worker-614] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:21:33,058 [Worker-613] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:21:33,071 [Worker-613] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:21:33,072 [Worker-613] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:21:33,086 [Worker-613] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:22:31,494 [Worker-615] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:22:31,508 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:22:31,510 [Worker-615] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:22:31,524 [Worker-615] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:23:13,739 [Worker-611] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:23:13,760 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-28 17:23:13,761 [Worker-611] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-28 17:23:13,776 [Worker-611] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:19:51,213 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:19:51,227 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:19:51,240 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:19:51,254 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:20:42,141 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:20:42,155 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:20:42,164 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:20:42,182 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:27:45,309 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:27:45,432 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:27:45,439 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:27:45,451 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:28:00,400 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:28:00,419 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:28:00,427 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:28:00,438 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:31:36,971 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:31:36,985 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:31:36,995 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:31:37,011 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 11:31:46,399 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:31:46,414 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 11:31:46,422 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 11:31:46,434 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:40:51,769 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:40:51,782 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 14:40:51,788 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:40:51,800 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:41:23,073 [Worker-848] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 14:41:24,506 [Worker-848] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar
+2019-07-01 14:41:58,902 [Worker-848] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar
+2019-07-01 14:42:00,783 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:00,795 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:00,797 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:00,811 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:03,418 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:03,434 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:42:03,545 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:03,561 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:13,991 [Worker-848] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 14:42:14,406 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:14,419 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:14,422 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:14,435 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:17,013 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:17,026 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:42:17,104 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:17,116 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:42:34,490 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:34,504 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-01 14:42:34,511 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:42:34,522 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:50:38,311 [Worker-848] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 14:50:39,284 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:50:39,304 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:50:39,306 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:50:39,319 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:50:43,876 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:50:43,890 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:50:43,976 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:50:43,991 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:55:10,540 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:10,551 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:55:10,554 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:10,566 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:55:29,503 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:29,525 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:55:29,535 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:29,569 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:55:40,136 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:40,153 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:55:40,156 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:40,169 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:55:43,218 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:43,233 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:55:43,236 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:55:43,249 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 14:56:06,186 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:56:06,199 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 14:56:06,203 [Worker-848] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 14:56:06,213 [Worker-848] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:02:16,744 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-07-01 15:02:34,689 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:02:34,712 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:02:34,716 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:02:34,729 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:02:38,291 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:02:38,884 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:02:38,900 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 15:02:38,992 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:02:39,011 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:04:49,038 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:04:49,093 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 15:04:49,097 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:04:49,116 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:05:50,187 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:05:52,063 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom
+2019-07-01 15:05:52,275 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom
+2019-07-01 15:05:52,492 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom
+2019-07-01 15:05:55,907 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom
+2019-07-01 15:05:56,137 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2019-07-01 15:05:56,521 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom
+2019-07-01 15:05:56,728 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2019-07-01 15:05:57,911 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2019-07-01 15:05:58,126 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2019-07-01 15:05:59,696 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2019-07-01 15:05:59,915 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2019-07-01 15:06:01,211 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2019-07-01 15:06:01,793 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom
+2019-07-01 15:06:02,922 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom
+2019-07-01 15:06:03,141 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom
+2019-07-01 15:06:06,092 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom
+2019-07-01 15:06:06,310 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom
+2019-07-01 15:06:07,806 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom
+2019-07-01 15:06:08,005 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom
+2019-07-01 15:06:08,582 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom
+2019-07-01 15:06:08,794 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom
+2019-07-01 15:06:09,180 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom
+2019-07-01 15:06:09,601 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.jar
+2019-07-01 15:06:09,802 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:09,815 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:09,817 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:09,837 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:11,788 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:06:12,395 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:12,414 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:12,415 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:12,431 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:17,290 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.pom
+2019-07-01 15:06:17,335 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:06:17,529 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.pom
+2019-07-01 15:06:17,746 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom
+2019-07-01 15:06:18,412 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.pom
+2019-07-01 15:06:18,628 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.pom
+2019-07-01 15:06:19,013 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom
+2019-07-01 15:06:19,536 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom
+2019-07-01 15:06:19,752 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom
+2019-07-01 15:06:19,877 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom
+2019-07-01 15:06:20,254 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom
+2019-07-01 15:06:20,864 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom
+2019-07-01 15:06:20,865 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom
+2019-07-01 15:06:21,145 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:21,161 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:21,163 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:06:21,177 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:06:21,251 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.jar
+2019-07-01 15:06:22,402 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.24/slf4j-nop-1.7.24.jar
+2019-07-01 15:06:22,585 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.jar
+2019-07-01 15:06:24,070 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.jar
+2019-07-01 15:07:27,865 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:07:27,882 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:07:27,885 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:07:27,905 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:07:28,347 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:07:28,371 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 15:07:28,478 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:07:28,492 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:09:48,278 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:09:49,332 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.pom
+2019-07-01 15:09:49,509 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.pom
+2019-07-01 15:09:49,686 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE.pom
+2019-07-01 15:09:50,290 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE.pom
+2019-07-01 15:09:50,555 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.jar
+2019-07-01 15:10:29,386 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.1.3.RELEASE/spring-core-5.1.3.RELEASE.jar
+2019-07-01 15:10:29,701 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE.jar
+2019-07-01 15:10:31,385 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.1.3.RELEASE/spring-jcl-5.1.3.RELEASE.jar
+2019-07-01 15:10:31,697 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:10:31,710 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:10:31,712 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:10:31,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:10:33,228 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:10:33,241 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 15:10:33,311 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:10:33,320 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:14:40,541 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 15:14:40,909 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:14:40,922 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:14:40,923 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:14:40,935 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:14:42,385 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:14:42,398 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 15:14:42,453 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 15:14:42,463 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 15:45:40,380 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-01 16:00:17,515 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ebank.inter:inter.provider:0.0.1-SNAPSHOT @ D:\project_interface\inter.provider\pom.xml.
+2019-07-01 16:00:18,407 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:00:18,425 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:00:18,438 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:00:18,454 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:00:21,110 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:00:21,130 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:00:21,220 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:00:21,233 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:05:23,480 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:23,531 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:05:23,537 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:23,551 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:05:31,371 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:31,416 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:05:31,420 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:31,441 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:05:51,871 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:51,888 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:05:51,894 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:05:51,909 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:06:14,813 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:06:14,826 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2019-07-01 16:06:14,833 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:06:14,850 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:11:41,373 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar
+2019-07-01 16:12:22,418 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar
+2019-07-01 16:12:22,658 [Worker-13] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.10.RELEASE
+2019-07-01 16:12:23,122 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:12:23,138 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:12:23,140 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:12:23,157 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:12:23,994 [Worker-22] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.10.RELEASE
+2019-07-01 16:12:24,253 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:12:24,318 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-01 16:12:24,327 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-01 16:12:24,365 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

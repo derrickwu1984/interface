@@ -1,5 +1,0 @@
-package com.inter.mapper;
-
-public interface InfoMapper {
-
-}

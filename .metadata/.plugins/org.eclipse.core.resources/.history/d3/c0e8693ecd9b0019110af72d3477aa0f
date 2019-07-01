@@ -1,0 +1,13 @@
+package com.inter.main;
+
+public class MainApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ClassPathXmlApplicationContext ioc = new ClassPathXmlApplicationContext("provider.xml");
+		ioc.start();
+		System.in.read();
+
+	}
+
+}
