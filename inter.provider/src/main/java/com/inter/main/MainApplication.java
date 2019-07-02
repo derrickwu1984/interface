@@ -9,7 +9,7 @@ public class MainApplication {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		System.out.println("abc");
+		System.out.println("========================provider==============================");
 		ClassPathXmlApplicationContext ioc = new ClassPathXmlApplicationContext("provider.xml");
 		ioc.start();
 		System.in.read();

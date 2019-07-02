@@ -1,0 +1,18 @@
+package com.inter.dao.impl;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+
+import com.inter.dao.InfoDao;
+import com.inter.entity.InterfaceField;
+
+@Repositry
+@Resource
+public class InfoDaoImpl extends BaseDaoImpl implements InfoDao {
+	public List<InterfaceField> getAllInfo() {
+		// TODO Auto-generated method stub
+		return getSqlSession().selectList(getStatement("getAllInfo"));
+	}
+
+}

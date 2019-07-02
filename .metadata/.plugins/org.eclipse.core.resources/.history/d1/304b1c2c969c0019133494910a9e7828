@@ -1,0 +1,9 @@
+package com.inter.service;
+
+import com.alibaba.dubbo.config.annotation.Service;
+
+@Service
+public interface AllInfoService {
+	public void  getAllInfo() ;
+
+}

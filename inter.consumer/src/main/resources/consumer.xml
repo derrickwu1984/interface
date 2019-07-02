@@ -10,7 +10,7 @@ xmlns:context="http://www.springframework.org/schema/context"
 		http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
 	<!--为使注解能生效，必须使用包扫描  -->
-	<context:component-scan base-package="com.inter.consumer.service.impl"></context:component-scan>
+	<context:component-scan base-package="com.inter"></context:component-scan>
 	<dubbo:application name="info-service-consumer"></dubbo:application>
 	<dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"></dubbo:registry>
 	<!--声明需要调用的远程接口  -->

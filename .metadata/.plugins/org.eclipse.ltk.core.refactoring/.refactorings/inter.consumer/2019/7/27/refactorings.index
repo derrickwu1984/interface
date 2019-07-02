@@ -1,2 +1,5 @@
 1561973121615	Rename resource 'provider.xml'
 1561973350324	Delete element
+1562035711041	Rename package 'com.inter.consumer.service'
+1562035726704	Rename package 'com.inter.consumer.service.impl'
+1562049615894	Rename package 'inter.consumer.main'

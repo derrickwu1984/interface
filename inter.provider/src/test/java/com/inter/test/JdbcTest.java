@@ -17,13 +17,15 @@ public class JdbcTest {
 		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
 		info = applicationContext.getBean(InfoServiceImpl.class);
 	}
+	// TODO Auto-generated method stub
 
 	@Test
 	public void test() {
+		int i=0;
 		for(InterfaceField field:info.getInfoList()) {
-			System.out.println(field.getFunc_desc());
+			i++;
 		}
-		System.out.println("=========end========");
+		System.out.println("i="+i);
 		
 		
 	}

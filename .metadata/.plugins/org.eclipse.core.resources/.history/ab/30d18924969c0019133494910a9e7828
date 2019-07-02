@@ -1,0 +1,21 @@
+package com.inter.service.impl;
+
+import com.alibaba.dubbo.config.annotation.Reference;
+import com.alibaba.dubbo.config.annotation.Service;
+import com.inter.entity.InterfaceField;
+import com.inter.service.AllInfoService;
+import com.inter.service.InfoService;
+@Service
+public class AllInfoServiceImpl implements AllInfoService {
+	@Reference
+	private InfoService infoService;
+	public void getAllInfo() {
+		// TODO Auto-generated method stub
+				for(InterfaceField field:infoService.getInfoList()) {
+					System.out.println(field.getFunc_desc());
+				}
+				System.out.println("=========consumer end========");
+				
+	}
+
+}

@@ -1,15 +1,18 @@
 package com.inter.dao.impl;
 
+import static org.junit.Assert.assertFalse;
+
+import javax.annotation.Resource;
+
 import org.apache.ibatis.session.SqlSession;
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
-
 
 public class BaseDaoImpl {
-	@Autowired
+	@Autowired(required=false)
+	@Qualifier("sqlSession")
 	private SqlSessionTemplate sessionTemplate;
 	
 	public SqlSession getSqlSession() {
