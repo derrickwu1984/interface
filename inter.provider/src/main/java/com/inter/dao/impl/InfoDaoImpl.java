@@ -11,8 +11,7 @@ import org.springframework.stereotype.Service;
 import com.inter.dao.InfoDao;
 import com.inter.entity.InterfaceField;
 
-@Service
-@Resource
+@Repository
 public class InfoDaoImpl extends BaseDaoImpl implements InfoDao {
 	public List<InterfaceField> getAllInfo() {
 		// TODO Auto-generated method stub

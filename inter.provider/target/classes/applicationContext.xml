@@ -68,5 +68,6 @@
 	<property name="mapperInterface" value="com.conf.mapper.UserMapper"/> 
 	<property name="sqlSessionFactory" ref="sqlSessionFactory"/> 
 </bean>  -->
+	<import resource="classpath:provider.xml"/>
 
 </beans>

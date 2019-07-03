@@ -46,6 +46,12 @@
 	    <artifactId>spring-core</artifactId>
 	    <version>5.1.6.RELEASE</version>
 	</dependency>
+	
+	 <dependency>
+	 	  <groupId>com.inter.common</groupId>
+		  <artifactId>inter.api</artifactId>
+		  <version>0.0.1-SNAPSHOT</version>
+	 </dependency>	
   </dependencies>
 </project>
 

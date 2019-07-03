@@ -1,15 +1,13 @@
 package com.inter.test;
 
-import java.awt.List;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.inter.entity.InterfaceField;
+import com.inter.service.InfoService;
 import com.inter.service.impl.InfoServiceImpl;
 public class JdbcTest {
-	
 	private InfoServiceImpl info;
 	private InterfaceField interField;
 	@Before

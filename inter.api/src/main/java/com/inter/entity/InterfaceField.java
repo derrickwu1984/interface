@@ -1,8 +1,8 @@
 package com.inter.entity;
 
-import org.springframework.stereotype.Service;
+import java.io.Serializable;
 
-public class InterfaceField {
+public class InterfaceField implements Serializable{
 	private String id;
 	private String trs_name;
 	private String trs_code;

@@ -11,9 +11,9 @@ public class MainApplication {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) throws IOException {
 		System.out.println("========================consumer==============================");
-		ClassPathXmlApplicationContext applicationContext =new  ClassPathXmlApplicationContext("consumer.xml");
-		InfoService allInfoService =  applicationContext.getBean(InfoService.class);
-		allInfoService.getInfoList();
+		ClassPathXmlApplicationContext applicationContext =new  ClassPathXmlApplicationContext("applicationContext.xml");
+		AllInfoService InfoService =  applicationContext.getBean(AllInfoService.class);
+		InfoService.getAllInfo();
 		System.in.read();
 	}
 }
